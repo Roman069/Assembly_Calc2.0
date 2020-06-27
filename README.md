@@ -17,7 +17,7 @@ Example of program operation:
 ;     10 - 5 = 5   
 ; output  -> number:   5  
 
-; example of calculation: 
+; example of calculation:  
 ; input 1 <- number:   10  
 ; input 2 <- operator: +   
 ; input 3 <- number:   5   
