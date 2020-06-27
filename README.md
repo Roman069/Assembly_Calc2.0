@@ -10,10 +10,10 @@ The program works with TASM16.
 Example of program operation:
 
 ; example of calculation:
-; input 1 <- number:   10	
-; input 2 <- operator: - 
-; input 3 <- number:   5 
-; ------------------- 
+; input 1 <- number:   10 	
+; input 2 <- operator: -   
+; input 3 <- number:   5   
+; -------------------  
 ;     10 - 5 = 5 
 ; output  -> number:   5
 
